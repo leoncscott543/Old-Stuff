@@ -1,0 +1,14 @@
+﻿Build started 4/22/2014 1:53:03 AM.
+     1>Project "C:\Users\LeonScott\Documents\Visual Studio 2013\Projects\Calculator 1.0\Calculator 1.0\Calculator 1.0.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Calculator 1.0.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Calculator 1.0.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Calculator 1.0.cpp"
+         Calculator 1.0.cpp
+     1>c:\users\leonscott\documents\visual studio 2013\projects\calculator 1.0\calculator 1.0\calculator 1.0.cpp(211): warning C4305: '*=' : truncation from 'double' to 'float'
+     1>c:\users\leonscott\documents\visual studio 2013\projects\calculator 1.0\calculator 1.0\calculator 1.0.cpp(335): error C2660: 'Calculation::pow' : function does not take 2 arguments
+     1>Done Building Project "C:\Users\LeonScott\Documents\Visual Studio 2013\Projects\Calculator 1.0\Calculator 1.0\Calculator 1.0.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.03
